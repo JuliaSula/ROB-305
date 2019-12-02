@@ -17,7 +17,7 @@ class Semaphore
 private:
 	/**@brief variable that represents number of tokens the semaphore has
 	 */
-	unsigned int counter;
+	volatile unsigned int counter;
 	
 	/**@brief Number maximum of tokens a semaphore can have
 	 */
