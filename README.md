@@ -1,5 +1,5 @@
 
-###Compiling###
+### Compiling ###
 Chaque dossier a une file bash du type tdxx_main.sh,
 xx sont les numéro et lettre du td respectivament
 Donc, dans chaque fichier pour compiler, il faut:
@@ -8,7 +8,7 @@ Donc, dans chaque fichier pour compiler, il faut:
 2. ./tdxx_main.sh
 
 
-###Running####
+### Running ####
 Pour tourner chaque un des fichier, il suffit de écrire le suivant dans
 la ligne de commande
 3. sudo ./a.out 
